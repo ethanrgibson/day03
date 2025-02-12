@@ -1,17 +1,10 @@
 .box {
-  height: 250px;
+  height: 200px;
+  width: 400px;
 }
 
-.red {
-  background-color: red;
-}
-
-.green {
-  background-color: green;
-}
-
-.blue {
-  background-color: blue;
+.warning {
+  background: #ffc107;
 }
 
 .runner-bg {
