@@ -1,6 +1,5 @@
 .box {
-  height: 200px;
-  width: 400px;
+  min-height: 200px;
 }
 
 .warning {
